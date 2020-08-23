@@ -1,3 +1,5 @@
+//@author Professor Nelio alves - Aulão DevSuperior 2020
+
 import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
@@ -9,7 +11,7 @@ public class Main {
 		/* Utilizando injeção de dependência utilizando polimorfismo
 		   utilizando uma stream de um arquivo */
 		
-		File file = new File("/media/fabio/GoogleDrive/Google Driver/DESENVOLVIMENTO/Java_Udemy/Aulas/in.txt");
+		File file = new File("/media/fabio/GoogleDrive/Google Driver/DESENVOLVIMENTO/DevSuperior/Java/in.txt");
 		
 		Scanner sc = null; // Instaciamos a variável Scanner
 		try {
