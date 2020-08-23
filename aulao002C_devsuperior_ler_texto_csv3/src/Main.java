@@ -1,3 +1,5 @@
+//@author Professor Nelio alves - Aulão DevSuperior 2020
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -6,7 +8,7 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		String path = "/media/fabio/GoogleDrive/Google Driver/DESENVOLVIMENTO/Java_Udemy/Aulas/in.txt";
+		String path = "/media/fabio/GoogleDrive/Google Driver/DESENVOLVIMENTO/DevSuperior/Java/in.txt";
 
 		/*Instânciando as variaveis na declaração do bloco try
 	 	
