@@ -1,3 +1,5 @@
+//@author Professor Nelio alves - Aulão DevSuperior 2020
+
 package application;
 
 import java.io.BufferedReader;
@@ -12,7 +14,7 @@ public class Program {
 
 	public static void main(String[] args) {
 
-		String path = "/media/fabio/GoogleDrive/Google Driver/DESENVOLVIMENTO/Java_Udemy/Aulas/in.txt";
+		String path = "/media/fabio/GoogleDrive/Google Driver/DESENVOLVIMENTO/DevSuperior/Java/in.txt";
 
 		//Instancia uma lista para o produto
 		List<Product> list = new ArrayList<Product>();
